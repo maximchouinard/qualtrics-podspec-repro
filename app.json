@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "qualtrics-podspec-repro",
+    "slug": "qualtrics-podspec-repro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "qualtrics-podspec-repro"
+}
